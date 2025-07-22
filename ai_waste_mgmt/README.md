@@ -65,7 +65,7 @@ ai_waste_mgmt/
 ### Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/ai-waste-management.git
+git clone https://github.com/Chiya0212/AI-Project.git
 cd ai-waste-management
 ```
 
